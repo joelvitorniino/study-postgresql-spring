@@ -11,10 +11,10 @@
 	<groupId>com.joelvitorniino</groupId>
 	<artifactId>study-postgresql-spring</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Study PostgreSQL Spring</name>
+	<name>study-postgresql-spring</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>18</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -24,10 +24,6 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-web-services</artifactId>
 		</dependency>
 
 		<dependency>
